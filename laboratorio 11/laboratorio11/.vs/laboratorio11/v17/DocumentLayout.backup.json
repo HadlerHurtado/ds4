@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hadle\\source\\repos\\ds4\\laboratorio 11\\laboratorio11\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2E858D12-02B3-461C-8320-7F924185A7C4}|laboratorio11\\laboratorio11.csproj|c:\\users\\hadle\\source\\repos\\ds4\\laboratorio 11\\laboratorio11\\laboratorio11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E858D12-02B3-461C-8320-7F924185A7C4}|laboratorio11\\laboratorio11.csproj|solutionrelative:laboratorio11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E858D12-02B3-461C-8320-7F924185A7C4}|laboratorio11\\laboratorio11.csproj|c:\\users\\hadle\\source\\repos\\ds4\\laboratorio 11\\laboratorio11\\laboratorio11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2E858D12-02B3-461C-8320-7F924185A7C4}|laboratorio11\\laboratorio11.csproj|solutionrelative:laboratorio11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -23,11 +27,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hadle\\source\\repos\\ds4\\laboratorio 11\\laboratorio11\\laboratorio11\\Form1.cs",
+              "RelativeDocumentMoniker": "laboratorio11\\Form1.cs",
+              "ToolTip": "C:\\Users\\hadle\\source\\repos\\ds4\\laboratorio 11\\laboratorio11\\laboratorio11\\Form1.cs*",
+              "RelativeToolTip": "laboratorio11\\Form1.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T22:33:48.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\hadle\\source\\repos\\ds4\\laboratorio 11\\laboratorio11\\laboratorio11\\Form1.cs",
               "RelativeDocumentMoniker": "laboratorio11\\Form1.cs",
-              "ToolTip": "C:\\Users\\hadle\\source\\repos\\ds4\\laboratorio 11\\laboratorio11\\laboratorio11\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "laboratorio11\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\hadle\\source\\repos\\ds4\\laboratorio 11\\laboratorio11\\laboratorio11\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "laboratorio11\\Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T22:22:59.762Z",
               "EditorCaption": " [Dise\u00F1o]"

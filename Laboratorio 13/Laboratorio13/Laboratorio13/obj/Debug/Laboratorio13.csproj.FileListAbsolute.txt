@@ -1,0 +1,11 @@
+C:\Users\hadle\source\repos\ds4\Laboratorio 13\Laboratorio13\Laboratorio13\bin\Debug\Laboratorio13.exe.config
+C:\Users\hadle\source\repos\ds4\Laboratorio 13\Laboratorio13\Laboratorio13\bin\Debug\Laboratorio13.exe
+C:\Users\hadle\source\repos\ds4\Laboratorio 13\Laboratorio13\Laboratorio13\bin\Debug\Laboratorio13.pdb
+C:\Users\hadle\source\repos\ds4\Laboratorio 13\Laboratorio13\Laboratorio13\obj\Debug\Laboratorio13.csproj.AssemblyReference.cache
+C:\Users\hadle\source\repos\ds4\Laboratorio 13\Laboratorio13\Laboratorio13\obj\Debug\Laboratorio13.Form1.resources
+C:\Users\hadle\source\repos\ds4\Laboratorio 13\Laboratorio13\Laboratorio13\obj\Debug\Laboratorio13.Properties.Resources.resources
+C:\Users\hadle\source\repos\ds4\Laboratorio 13\Laboratorio13\Laboratorio13\obj\Debug\Laboratorio13.csproj.GenerateResource.cache
+C:\Users\hadle\source\repos\ds4\Laboratorio 13\Laboratorio13\Laboratorio13\obj\Debug\Laboratorio13.csproj.CoreCompileInputs.cache
+C:\Users\hadle\source\repos\ds4\Laboratorio 13\Laboratorio13\Laboratorio13\obj\Debug\Laboratorio13.exe
+C:\Users\hadle\source\repos\ds4\Laboratorio 13\Laboratorio13\Laboratorio13\obj\Debug\Laboratorio13.pdb
+C:\Users\hadle\source\repos\ds4\Laboratorio 13\Laboratorio13\Laboratorio13\obj\Debug\Laboratorio13.exe.config

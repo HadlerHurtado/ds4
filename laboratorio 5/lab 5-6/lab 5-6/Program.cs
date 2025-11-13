@@ -1,18 +1,29 @@
-﻿
-internal class Program
-{
-    static void Main(string[] args)
-    {
-        Dictionary<string, string> paisesYcapitales = new Dictionary<string, string>
-        {
-            { "Francia", "París" },
-            { "España", "Madrid" },
-            { "Italia", "Roma" }
-        };
+﻿using System;
 
-        foreach (KeyValuePair<string, string> par in paisesYcapitales)
+class Programa
+{
+    static void Main()
+    {
+        Console.Write("Ingrese el tamaño de la matriz (n): ");
+        int n = int.Parse(Console.ReadLine());
+
+        int[,] matriz = new int[n, n];
+
+        int filaCentral = n / 2;
+
+        for (int j = 0; j < n; j++)
         {
-            Console.WriteLine("La capital de " + par.Key + " es " + par.Value);
+            matriz[filaCentral, j] = j + 1;
+        }
+
+        Console.WriteLine("\nMatriz resultante:");
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < n; j++)
+            {
+                Console.Write(matriz[i, j] + "\t");
+            }
+            Console.WriteLine();
         }
     }
 }

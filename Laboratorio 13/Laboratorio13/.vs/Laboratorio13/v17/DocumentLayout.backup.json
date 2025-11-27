@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hadle\\source\\repos\\ds4\\Laboratorio 13\\Laboratorio13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B14DD35-D896-4190-8986-498ECCDA4A66}|Laboratorio13\\Laboratorio13.csproj|c:\\users\\hadle\\source\\repos\\ds4\\laboratorio 13\\laboratorio13\\laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4B14DD35-D896-4190-8986-498ECCDA4A66}|Laboratorio13\\Laboratorio13.csproj|solutionrelative:laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B14DD35-D896-4190-8986-498ECCDA4A66}|Laboratorio13\\Laboratorio13.csproj|c:\\users\\hadle\\source\\repos\\ds4\\laboratorio 13\\laboratorio13\\laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B14DD35-D896-4190-8986-498ECCDA4A66}|Laboratorio13\\Laboratorio13.csproj|solutionrelative:laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B14DD35-D896-4190-8986-498ECCDA4A66}|Laboratorio13\\Laboratorio13.csproj|c:\\users\\hadle\\source\\repos\\ds4\\laboratorio 13\\laboratorio13\\laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B14DD35-D896-4190-8986-498ECCDA4A66}|Laboratorio13\\Laboratorio13.csproj|solutionrelative:laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\hadle\\source\\repos\\ds4\\Laboratorio 13\\Laboratorio13\\Laboratorio13\\Form1.cs",
               "RelativeDocumentMoniker": "Laboratorio13\\Form1.cs",
@@ -38,13 +38,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\hadle\\source\\repos\\ds4\\Laboratorio 13\\Laboratorio13\\Laboratorio13\\Form1.cs",
               "RelativeDocumentMoniker": "Laboratorio13\\Form1.cs",
               "ToolTip": "C:\\Users\\hadle\\source\\repos\\ds4\\Laboratorio 13\\Laboratorio13\\Laboratorio13\\Form1.cs*",
               "RelativeToolTip": "Laboratorio13\\Form1.cs*",
-              "ViewState": "AgIAABkAAADgzczMzMw9wEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAArwEcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T23:20:19.695Z",
               "EditorCaption": ""

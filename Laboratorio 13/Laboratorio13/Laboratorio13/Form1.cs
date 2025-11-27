@@ -15,7 +15,7 @@ namespace Laboratorio13
     {
         // ✅ 1. Declarar la variable de conexión en la clase Form1
         string connectionString =
-        @"Server=(localdb)\MSSQLLocalDB;Database=master;TrustServerCertificate=true;Integrated Security=SSPI;";
+        @"Server=(localdb)\MSSQLLocalDB;Database=USBStorage;TrustServerCertificate=true;Integrated Security=SSPI;";
 
 
         public Form1()

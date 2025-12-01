@@ -1,0 +1,10 @@
+C:\Users\hadle\source\repos\ds4\laboratorio 11\laboratorio11\laboratorio11\bin\Debug\laboratorio11.exe.config
+C:\Users\hadle\source\repos\ds4\laboratorio 11\laboratorio11\laboratorio11\bin\Debug\laboratorio11.exe
+C:\Users\hadle\source\repos\ds4\laboratorio 11\laboratorio11\laboratorio11\bin\Debug\laboratorio11.pdb
+C:\Users\hadle\source\repos\ds4\laboratorio 11\laboratorio11\laboratorio11\obj\Debug\laboratorio11.csproj.AssemblyReference.cache
+C:\Users\hadle\source\repos\ds4\laboratorio 11\laboratorio11\laboratorio11\obj\Debug\laboratorio11.Form1.resources
+C:\Users\hadle\source\repos\ds4\laboratorio 11\laboratorio11\laboratorio11\obj\Debug\laboratorio11.Properties.Resources.resources
+C:\Users\hadle\source\repos\ds4\laboratorio 11\laboratorio11\laboratorio11\obj\Debug\laboratorio11.csproj.GenerateResource.cache
+C:\Users\hadle\source\repos\ds4\laboratorio 11\laboratorio11\laboratorio11\obj\Debug\laboratorio11.csproj.CoreCompileInputs.cache
+C:\Users\hadle\source\repos\ds4\laboratorio 11\laboratorio11\laboratorio11\obj\Debug\laboratorio11.exe
+C:\Users\hadle\source\repos\ds4\laboratorio 11\laboratorio11\laboratorio11\obj\Debug\laboratorio11.pdb

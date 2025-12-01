@@ -1,0 +1,15 @@
+C:\Users\hadle\source\repos\ds4\laboratorio 5\lab 5-6\lab 5-6\bin\Debug\net8.0\lab 5-6.exe
+C:\Users\hadle\source\repos\ds4\laboratorio 5\lab 5-6\lab 5-6\bin\Debug\net8.0\lab 5-6.deps.json
+C:\Users\hadle\source\repos\ds4\laboratorio 5\lab 5-6\lab 5-6\bin\Debug\net8.0\lab 5-6.runtimeconfig.json
+C:\Users\hadle\source\repos\ds4\laboratorio 5\lab 5-6\lab 5-6\bin\Debug\net8.0\lab 5-6.dll
+C:\Users\hadle\source\repos\ds4\laboratorio 5\lab 5-6\lab 5-6\bin\Debug\net8.0\lab 5-6.pdb
+C:\Users\hadle\source\repos\ds4\laboratorio 5\lab 5-6\lab 5-6\obj\Debug\net8.0\lab 5-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hadle\source\repos\ds4\laboratorio 5\lab 5-6\lab 5-6\obj\Debug\net8.0\lab 5-6.AssemblyInfoInputs.cache
+C:\Users\hadle\source\repos\ds4\laboratorio 5\lab 5-6\lab 5-6\obj\Debug\net8.0\lab 5-6.AssemblyInfo.cs
+C:\Users\hadle\source\repos\ds4\laboratorio 5\lab 5-6\lab 5-6\obj\Debug\net8.0\lab 5-6.csproj.CoreCompileInputs.cache
+C:\Users\hadle\source\repos\ds4\laboratorio 5\lab 5-6\lab 5-6\obj\Debug\net8.0\lab 5-6.sourcelink.json
+C:\Users\hadle\source\repos\ds4\laboratorio 5\lab 5-6\lab 5-6\obj\Debug\net8.0\lab 5-6.dll
+C:\Users\hadle\source\repos\ds4\laboratorio 5\lab 5-6\lab 5-6\obj\Debug\net8.0\refint\lab 5-6.dll
+C:\Users\hadle\source\repos\ds4\laboratorio 5\lab 5-6\lab 5-6\obj\Debug\net8.0\lab 5-6.pdb
+C:\Users\hadle\source\repos\ds4\laboratorio 5\lab 5-6\lab 5-6\obj\Debug\net8.0\lab 5-6.genruntimeconfig.cache
+C:\Users\hadle\source\repos\ds4\laboratorio 5\lab 5-6\lab 5-6\obj\Debug\net8.0\ref\lab 5-6.dll
